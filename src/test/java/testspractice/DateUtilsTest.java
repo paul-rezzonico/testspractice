@@ -33,11 +33,6 @@ class DateUtilsTest {
 	}
 	
 	@Test
-	void should_be_a_leap_year_when_only_divisible_by_4_not_by_400_by_100 () {
-		//TODO
-	}
-	
-	@Test
 	void should_not_be_a_leap_year() {
 		//TODO
 	}
