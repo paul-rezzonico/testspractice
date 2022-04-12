@@ -1,6 +1,6 @@
 package testspractice;
 
-public class StringUtils {
+public abstract class StringUtils {
 
 	public static boolean isPalindrome(String candidate) {
 		String candidateReverse = reverse(candidate);
